@@ -1,4 +1,5 @@
 ### Olá a todos 👋
+Sejam bem vindos, vamos juntos agregar na comunidade git, contribuindo da melhor forma possivel, mesmo que, minimamente.
 
 <!--
 **VertonRx/VertonRx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
